@@ -121,4 +121,22 @@ public class MvcApplication {
 	quick definition  	ctrl + shift + i   선언부 미리보기
 
 	메소드 설명만  	ctrl + q
+
+	테스트 코드	alt + enter
+	테스트 코드 이동 ctrl + shift + t
+	선택된 테스트 코드 실행	ctrl + shift + f10
+	정지	ctrl + f2
+
+	리팩토링
+	클래스 이동 f6
+	변수의 타입 변경	ctrl + shift + f6
+	시그니처 변경		ctrl + f6		메소드를 정의 할 수 있는
+	변수명 변경	shift + f6
+
+	디버깅
+	브레이크 포인트 설정 	ctrl + f8
+	브레이크 포인트 보기 	ctrl + shift + f8
+	디버깅 모드 실행 	shift + f9
+	에디터 실행	윈도우는 없음. 마우스로 아이콘 클릭(bug)
+
  */
